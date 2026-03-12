@@ -1,6 +1,7 @@
 # TG-Student 📚
 
-A Flutter-based Student Management Application designed to help students easily access academic information such as attendance, assignments, notices, and study resources.
+TG-Student is a Flutter-based Student Management Application developed during my internship.
+The application helps students access academic information such as attendance, assignments, notices, and study resources in a simple and user-friendly interface.
 
 ## 🚀 Features
 
@@ -66,8 +67,8 @@ flutter run
 ## 👨‍💻 Author
 
 **Ajim Ramjan Nadaf**
-B.Tech Computer Science Student
+B.Tech Computer Science Engineering Student
 
 ---
 
-This project is created for learning and academic purposes.
+This project was developed as part of my Flutter Internship to gain practical experience in mobile app development.
